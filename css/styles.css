@@ -110,7 +110,12 @@ color: #2E2F42;
         letter-spacing: 0.32px;
 }
 
-
+.section-team-title {
+    background: #F4F4FD;
+}
+.title-team {
+    background-color: #FFFFFF;
+}
 
 
 
