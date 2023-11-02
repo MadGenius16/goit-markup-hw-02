@@ -16,9 +16,8 @@ ul {
     font-family: Raleway;
     color: #4D5AE5;
     font-size: 18px;
-    font-style: normal;
     font-weight: 700;
-    line-height: 21px
+    line-height: 1.166
  }
 
   .studio {
@@ -28,24 +27,24 @@ color: #2E2F42;
  .page-nav .link {
     color: #2E2F42;
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
  }
 
- .page-nav .link:hover {
+ .page-nav .link:hover,
+ .page-nav .link:focus {
    color: #404BBF
  }
 
  .page-address .link {
     color: #434455;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 24px
+    line-height: 1.5;
  }
 
- .page-address .link:hover {
+ .page-address .link:hover,
+ .page-address .link:focus {
 color:#404BBF
  }
 
@@ -53,9 +52,8 @@ color:#404BBF
 color: #FFF;
     text-align: center;
     font-size: 56px;
-    font-style: normal;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 10.71;
 }
 
 
@@ -63,26 +61,39 @@ color: #FFF;
     color:#2E2F42;
     text-align: center;
     font-size: 36px;
-    font-style: normal;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }  
+
+.title-button {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    border-radius: 4px;
+        background: #4D5AE5;
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.title-button:hover,
+.title-button:focus {
+background: #404BBF;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
 .section-title .title {
 color: #2E2F42;
     text-align: center;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.2;
 }
 
 .section-title .text {
     color: #434455;
     text-align: center;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
 }
