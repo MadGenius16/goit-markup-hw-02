@@ -38,7 +38,11 @@ color: #2E2F42;
  .page-nav .link:hover,
  .page-nav .link:focus {
     color: #404BBF
+    
  }
+.page-address-title {
+    font-style: normal;
+}
 
  .page-address .address-link {
     color: #434455;
