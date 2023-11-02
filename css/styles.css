@@ -162,9 +162,9 @@ color: #2E2F42;
 
 
     .section-footer-title {
-        background: #2E2F42;
+        background-color: #2E2F42;
     }
-    .section-footer--title .span {
+    .section-footer-title .span {
     color: #f4f4fd;
     }
     .section-footer-text {
