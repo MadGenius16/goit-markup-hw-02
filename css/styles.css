@@ -19,6 +19,15 @@ ul {
     font-weight: 700;
     line-height: 21px
  }
+
+ .web {
+    color: #4D5AE5;
+     }
+
+ .studio {
+color: #2E2F42;
+ }
+
  .page-nav .link {
     color: #2E2F42;
     font-size: 16px;
@@ -43,7 +52,17 @@ ul {
 color:#404BBF
  }
 
-h2 {
+.page-title {
+color: #FFF;
+    text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+
+.section-title {
     color:#2E2F42;
     text-align: center;
     font-size: 36px;
@@ -53,3 +72,6 @@ h2 {
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }  
+.section-title .title {
+    
+}
