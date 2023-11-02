@@ -40,17 +40,21 @@ color: #2E2F42;
    color: #404BBF
  }
 
- .page-address .link {
+ .page-address .address-link {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
+     }
+
+ .page-address .address-link:hover,
+ .page-address .address-link:focus {
+color:#404BBF
  }
 
- .page-address .link:hover,
- .page-address .link:focus {
-color:#404BBF
+ .section-page-title {
+    background: #2E2F42;
  }
 
 .page-title {
@@ -80,6 +84,7 @@ color: #FFF;
     line-height: 1.5;
     letter-spacing: 0.64px;
     cursor: pointer;
+    background-color: #4D5AE5;
     }
 
 .section-title .title {
