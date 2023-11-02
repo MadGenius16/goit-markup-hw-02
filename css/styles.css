@@ -14,17 +14,14 @@ ul {
 
  .logo {
     font-family: Raleway;
+    color: #4D5AE5;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: 21px
  }
 
- .web {
-    color: #4D5AE5;
-     }
-
- .studio {
+  .studio {
 color: #2E2F42;
  }
 
