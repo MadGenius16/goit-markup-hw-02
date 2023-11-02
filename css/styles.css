@@ -79,6 +79,7 @@ color: #FFF;
 
 .title-button {
     color: #FFF;
+    text-align: center;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -87,6 +88,10 @@ color: #FFF;
     background-color: #4D5AE5;
     }
 
+.title-button:hover,
+.title-button:focus {
+     background-color: #404BBF;
+    }
 .section-title .title {
 color: #2E2F42;
     text-align: center;
