@@ -95,14 +95,14 @@ color: #2E2F42;
         letter-spacing: 0.72px;
         text-transform: capitalize;
 }
-.title {
+.section-title .title {
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.4px;
 }
-.text {
+.section-title .text {
     color: #434455;
         font-size: 16px;
         font-weight: 400;
