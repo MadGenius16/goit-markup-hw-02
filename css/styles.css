@@ -32,7 +32,7 @@ color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
  }
 
  .page-nav .link:hover,
@@ -49,7 +49,7 @@ color: #2E2F42;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
      }
 
  .page-address .address-link:hover,
@@ -67,7 +67,7 @@ color: #2E2F42;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
 }
 
 .title-button {
@@ -76,7 +76,7 @@ color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
     cursor: pointer;
     background-color: #4D5AE5;
     }
@@ -92,7 +92,7 @@ color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 .section-title-advantages .title {
@@ -100,14 +100,14 @@ color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 .section-title-advantages .text {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .section-team-title {
@@ -122,7 +122,7 @@ color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 .section-title-item .text {
     color: #434455;
@@ -130,7 +130,7 @@ color: #2E2F42;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .page-footer {
@@ -160,7 +160,7 @@ color: #2E2F42;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 
