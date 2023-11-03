@@ -133,10 +133,10 @@ color: #2E2F42;
     letter-spacing: 0.32px;
 }
 
-.section-footer {
+.page-footer {
     background: #2E2F42;
 }
-.logo-footer {
+.page-footer .logo-footer {
     font-family: "Raleway",
         sans-serif;
     color: #4D5AE5;
@@ -146,7 +146,7 @@ color: #2E2F42;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.logo-studio {
+.page-footer .logo-studio {
     color: #F4F4FD;
     font-family: Raleway;
     font-size: 18px;
@@ -155,7 +155,7 @@ color: #2E2F42;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.footer-text {
+.page-footer .footer-text {
     color: #F4F4FD;
     font-size: 16px;
     font-weight: 400;
